@@ -20,9 +20,10 @@ TODO (basically free to use commercial and non-commercial, as long as we are cre
 
 ## Contributing
 
-Before you contribute to this project, please read RULES.md and CODESTYLE.md to avoid any possible future 
-confusion about the way this project is managed. If you need something to do, read TODO.md to see what changes need to be made.
+Please read GUIDELINES.md to update yourself on how this project is set-up and how you can start to contribute.
 
 ## Basic set-up
 
-To get started with contributing to or implementing a FahnerCMS system, take a look inside the !tutorials/! folder.
+To get started with contributing to or implementing a FahnerCMS system, take a look inside the __tutorials__ folder for
+(as the name implies) tutorials about getting a FahnerCMS system running, extending a FahnerCMS system and many other 
+possible uses of the CMS.
