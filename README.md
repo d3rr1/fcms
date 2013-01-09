@@ -11,7 +11,7 @@ Note that this is still very much a work in progress. Many of the features descr
 
 ## Technologies
 
-The system is build using PHP/MySQL for the backend (the REST-API) and communicates via JSON to any front-end application.
+The system is built using PHP/MySQL for the backend (the REST-API) and communicates via JSON to any front-end application.
 By default the system comes with a default web-implementation mainly written in JavaScript (+ jQuery) and ofcourse uses HTML/CSS for presentation.
 
 ## Licensing
