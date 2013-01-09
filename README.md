@@ -20,7 +20,7 @@ TODO (basically free to use commercial and non-commercial, as long as we are cre
 
 ## Contributing
 
-Please read GUIDELINES.md to update yourself on how this project is set-up and how you can start to contribute.
+Please read GUIDELINES.md to learn about how this project is set-up and how you can start to contribute.
 
 ## Basic set-up
 
